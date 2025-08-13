@@ -1,7 +1,8 @@
 
 # SES Conda 2.1.0 自述文件/README
-> 中英双语 | Bilingual
-
+> 中英双语 | Bilingual  
+> SES Conda是一个轻量**深度学习套件**，利用EricasZ的思路，实现简单的数据推断。  
+> SES Conda is a lightweight **deeplearning toolkit**, implementing simple data prediction following the idea of EricasZ  
 ---
 
 ## 1. 30 秒上手 / 30-Second Start
